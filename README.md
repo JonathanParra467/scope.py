@@ -1,0 +1,2 @@
+# scope.py
+class work
